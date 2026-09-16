@@ -129,6 +129,30 @@ TCP_Server/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TCP_Server.dir/build.make CMakeFiles/TCP_Server.dir/build
 .PHONY : TCP_Server/fast
 
+app/config/server_config.o: app/config/server_config.c.o
+.PHONY : app/config/server_config.o
+
+# target to build an object file
+app/config/server_config.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TCP_Server.dir/build.make CMakeFiles/TCP_Server.dir/app/config/server_config.c.o
+.PHONY : app/config/server_config.c.o
+
+app/config/server_config.i: app/config/server_config.c.i
+.PHONY : app/config/server_config.i
+
+# target to preprocess a source file
+app/config/server_config.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TCP_Server.dir/build.make CMakeFiles/TCP_Server.dir/app/config/server_config.c.i
+.PHONY : app/config/server_config.c.i
+
+app/config/server_config.s: app/config/server_config.c.s
+.PHONY : app/config/server_config.s
+
+# target to generate assembly for a file
+app/config/server_config.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TCP_Server.dir/build.make CMakeFiles/TCP_Server.dir/app/config/server_config.c.s
+.PHONY : app/config/server_config.c.s
+
 app/entry_point.o: app/entry_point.c.o
 .PHONY : app/entry_point.o
 
@@ -186,6 +210,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TCP_Server"
+	@echo "... app/config/server_config.o"
+	@echo "... app/config/server_config.i"
+	@echo "... app/config/server_config.s"
 	@echo "... app/entry_point.o"
 	@echo "... app/entry_point.i"
 	@echo "... app/entry_point.s"

@@ -1,5 +1,5 @@
-CMakeFiles/TCP_Server.dir/app/entry_point.c.o: \
- /home/agramm/Schreibtisch/Projects/C/TCP_Server/app/entry_point.c \
+CMakeFiles/TCP_Server.dir/app/config/server_config.c.o: \
+ /home/agramm/Schreibtisch/Projects/C/TCP_Server/app/config/server_config.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
@@ -15,5 +15,4 @@ CMakeFiles/TCP_Server.dir/app/entry_point.c.o: \
  /usr/include/bits/types/FILE.h /usr/include/bits/types/struct_FILE.h \
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
- /usr/include/bits/floatn-common.h \
- /home/agramm/Schreibtisch/Projects/C/TCP_Server/app/config/server_config.h
+ /usr/include/bits/floatn-common.h

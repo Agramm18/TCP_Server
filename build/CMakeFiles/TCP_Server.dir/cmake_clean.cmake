@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TCP_Server.dir/link.d"
+  "CMakeFiles/TCP_Server.dir/app/config/server_config.c.o"
+  "CMakeFiles/TCP_Server.dir/app/config/server_config.c.o.d"
   "CMakeFiles/TCP_Server.dir/app/entry_point.c.o"
   "CMakeFiles/TCP_Server.dir/app/entry_point.c.o.d"
   "CMakeFiles/TCP_Server.dir/main.c.o"

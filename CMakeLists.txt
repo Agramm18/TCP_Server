@@ -8,4 +8,6 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 add_executable(TCP_Server
     main.c
     app/entry_point.c
+
+    app/config/server_config.c
 )

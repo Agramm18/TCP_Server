@@ -4,6 +4,7 @@ TCP_Server: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o \
   CMakeFiles/TCP_Server.dir/main.c.o \
   CMakeFiles/TCP_Server.dir/app/entry_point.c.o \
+  CMakeFiles/TCP_Server.dir/app/config/server_config.c.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s_asneeded.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s_asneeded.so \
@@ -45,6 +46,8 @@ TCP_Server: \
 CMakeFiles/TCP_Server.dir/main.c.o:
 
 CMakeFiles/TCP_Server.dir/app/entry_point.c.o:
+
+CMakeFiles/TCP_Server.dir/app/config/server_config.c.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a:
 

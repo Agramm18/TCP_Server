@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/agramm/Schreibtisch/Projects/C/TCP_Server/app/config/server_config.c" "CMakeFiles/TCP_Server.dir/app/config/server_config.c.o" "gcc" "CMakeFiles/TCP_Server.dir/app/config/server_config.c.o.d"
   "/home/agramm/Schreibtisch/Projects/C/TCP_Server/app/entry_point.c" "CMakeFiles/TCP_Server.dir/app/entry_point.c.o" "gcc" "CMakeFiles/TCP_Server.dir/app/entry_point.c.o.d"
   "/home/agramm/Schreibtisch/Projects/C/TCP_Server/main.c" "CMakeFiles/TCP_Server.dir/main.c.o" "gcc" "CMakeFiles/TCP_Server.dir/main.c.o.d"
   "" "TCP_Server" "gcc" "CMakeFiles/TCP_Server.dir/link.d"
