@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/TCP_Server.dir/link.d CMakeFiles/TCP_Server.dir/main.c.o CMakeFiles/TCP_Server.dir/app/entry_point.c.o -o TCP_Server

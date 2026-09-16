@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main() {
-    printf("Hello world");
-    printf("Hello World");
+#include "app/entry_point.h"
 
+int main() {
+    start_programm();
     return 0;
 }
